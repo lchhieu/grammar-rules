@@ -1,0 +1,878 @@
+[
+  {
+    "englishName": "Afrikaans",
+    "full_code": "af_ZA",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Albanian",
+    "full_code": "sq_AL",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Amharic",
+    "full_code": "am_ET",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Arabic (Egypt)",
+    "full_code": "ar_EG",
+    "modes": [
+      {
+        "genders": true,
+        "name": "Speech synthesis",
+        "value": true
+      }
+    ],
+    "rtl": true
+  },
+  {
+    "englishName": "Arabic (Saudi Arabia)",
+    "full_code": "ar_SA",
+    "modes": [
+      {
+        "genders": true,
+        "name": "Speech synthesis",
+        "value": true
+      }
+    ],
+    "rtl": true
+  },
+  {
+    "englishName": "Arabic (United Arab Emirates)",
+    "full_code": "ar_AE",
+    "modes": [
+      {
+        "genders": true,
+        "name": "Speech synthesis",
+        "value": true
+      }
+    ],
+    "rtl": true
+  },
+  {
+    "englishName": "Armenian",
+    "full_code": "hy_AM",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Azerbaijani",
+    "full_code": "az_AZ",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Basque",
+    "full_code": "eu_ES",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Belarusian",
+    "full_code": "be_BY",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Bengali",
+    "full_code": "bn_BD",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Bosnian",
+    "full_code": "bs_BA",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Bulgarian",
+    "full_code": "bg_BG",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Catalan",
+    "full_code": "ca_ES",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Cebuano",
+    "full_code": "ceb_PH",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Chichewa (Nyanja)",
+    "full_code": "ny_MW",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Chinese (simplified)",
+    "full_code": "zh-Hans_CN",
+    "modes": [
+      {
+        "genders": true,
+        "name": "Speech synthesis",
+        "value": true
+      }
+    ],
+    "rtl": false
+  },
+  {
+    "englishName": "Chinese (traditional)",
+    "full_code": "zh-Hant_TW",
+    "modes": [
+      {
+        "genders": true,
+        "name": "Speech synthesis",
+        "value": true
+      }
+    ],
+    "rtl": false
+  },
+  {
+    "englishName": "Corsican",
+    "full_code": "co_FR",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Creole",
+    "full_code": "ht_HT",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Croatian",
+    "full_code": "hr_HR",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Czech",
+    "full_code": "cs_CZ",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Danish",
+    "full_code": "da_DK",
+    "modes": [
+      {
+        "genders": true,
+        "name": "Speech synthesis",
+        "value": true
+      }
+    ],
+    "rtl": false
+  },
+  {
+    "englishName": "Dutch",
+    "full_code": "nl_NL",
+    "modes": [
+      {
+        "genders": true,
+        "name": "Speech synthesis",
+        "value": true
+      }
+    ],
+    "rtl": false
+  },
+  {
+    "englishName": "English (Australian)",
+    "full_code": "en_AU",
+    "modes": [
+      {
+        "genders": true,
+        "name": "Speech synthesis",
+        "value": true
+      }
+    ],
+    "rtl": false
+  },
+  {
+    "englishName": "English (Great Britain)",
+    "full_code": "en_GB",
+    "modes": [
+      {
+        "genders": true,
+        "name": "Speech synthesis",
+        "value": true
+      }
+    ],
+    "rtl": false
+  },
+  {
+    "englishName": "English (USA)",
+    "full_code": "en_US",
+    "modes": [
+      {
+        "genders": true,
+        "name": "Speech synthesis",
+        "value": true
+      }
+    ],
+    "rtl": false
+  },
+  {
+    "englishName": "Esperanto",
+    "full_code": "eo_WORLD",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Estonian",
+    "full_code": "et_EE",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Finnish",
+    "full_code": "fi_FI",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "French (Canada)",
+    "full_code": "fr_CA",
+    "modes": [
+      {
+        "genders": true,
+        "name": "Speech synthesis",
+        "value": true
+      }
+    ],
+    "rtl": false
+  },
+  {
+    "englishName": "French (France)",
+    "full_code": "fr_FR",
+    "modes": [
+      {
+        "genders": true,
+        "name": "Speech synthesis",
+        "value": true
+      }
+    ],
+    "rtl": false
+  },
+  {
+    "englishName": "Frisian",
+    "full_code": "fy_NL",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Galician",
+    "full_code": "gl_ES",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Georgian",
+    "full_code": "ka_GE",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "German",
+    "full_code": "de_DE",
+    "modes": [
+      {
+        "genders": true,
+        "name": "Speech synthesis",
+        "value": true
+      }
+    ],
+    "rtl": false
+  },
+  {
+    "englishName": "Greek",
+    "full_code": "el_GR",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Gujarati",
+    "full_code": "gu_IN",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Hausa",
+    "full_code": "ha_NE",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Hawaiian",
+    "full_code": "haw_US",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Hebrew",
+    "full_code": "he_IL",
+    "modes": [],
+    "rtl": true
+  },
+  {
+    "englishName": "Hindi",
+    "full_code": "hi_IN",
+    "modes": [
+      {
+        "genders": true,
+        "name": "Speech synthesis",
+        "value": true
+      }
+    ],
+    "rtl": false
+  },
+  {
+    "englishName": "Hmong",
+    "full_code": "hmn_CN",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Hungarian",
+    "full_code": "hu_HU",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Icelandic",
+    "full_code": "is_IS",
+    "modes": [
+      {
+        "genders": true,
+        "name": "Speech synthesis",
+        "value": true
+      }
+    ],
+    "rtl": false
+  },
+  {
+    "englishName": "Igbo",
+    "full_code": "ig_NG",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Indonesian",
+    "full_code": "id_ID",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Irish",
+    "full_code": "ga_IE",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Italian",
+    "full_code": "it_IT",
+    "modes": [
+      {
+        "genders": true,
+        "name": "Speech synthesis",
+        "value": true
+      }
+    ],
+    "rtl": false
+  },
+  {
+    "englishName": "Japanese",
+    "full_code": "ja_JP",
+    "modes": [
+      {
+        "genders": true,
+        "name": "Speech synthesis",
+        "value": true
+      }
+    ],
+    "rtl": false
+  },
+  {
+    "englishName": "Javanese",
+    "full_code": "jv_ID",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Kannada",
+    "full_code": "kn_IN",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Kazakh",
+    "full_code": "kk_KZ",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Khmer",
+    "full_code": "km_KH",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Kinyarwanda",
+    "full_code": "rw_RW",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Korean",
+    "full_code": "ko_KR",
+    "modes": [
+      {
+        "genders": true,
+        "name": "Speech synthesis",
+        "value": true
+      }
+    ],
+    "rtl": false
+  },
+  {
+    "englishName": "Kurdish",
+    "full_code": "ku_IR",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Kyrgyz",
+    "full_code": "ky_KG",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Lao",
+    "full_code": "lo_LA",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Latin",
+    "full_code": "la_VAT",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Latvian",
+    "full_code": "lv_LV",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Lithuanian",
+    "full_code": "lt_LT",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Luxembourgish",
+    "full_code": "lb_LU",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Macedonian",
+    "full_code": "mk_MK",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Malagasy",
+    "full_code": "mg_MG",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Malay",
+    "full_code": "ms_MY",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Malayalam",
+    "full_code": "ml_IN",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Maltese",
+    "full_code": "mt_MT",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Maori",
+    "full_code": "mi_NZ",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Marathi",
+    "full_code": "mr_IN",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Mongolian",
+    "full_code": "mn_MN",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Myanmar (Burmese)",
+    "full_code": "my_MM",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Nepali",
+    "full_code": "ne_NP",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Norwegian",
+    "full_code": "no_NO",
+    "modes": [
+      {
+        "genders": true,
+        "name": "Speech synthesis",
+        "value": true
+      }
+    ],
+    "rtl": false
+  },
+  {
+    "englishName": "Odia",
+    "full_code": "or_OR",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Pashto",
+    "full_code": "ps_AF",
+    "modes": [],
+    "rtl": true
+  },
+  {
+    "englishName": "Persian",
+    "full_code": "fa_IR",
+    "modes": [],
+    "rtl": true
+  },
+  {
+    "englishName": "Polish",
+    "full_code": "pl_PL",
+    "modes": [
+      {
+        "genders": true,
+        "name": "Speech synthesis",
+        "value": true
+      }
+    ],
+    "rtl": false
+  },
+  {
+    "englishName": "Portuguese",
+    "full_code": "pt_PT",
+    "modes": [
+      {
+        "genders": true,
+        "name": "Speech synthesis",
+        "value": true
+      }
+    ],
+    "rtl": false
+  },
+  {
+    "englishName": "Portuguese (Brazil)",
+    "full_code": "pt_BR",
+    "modes": [
+      {
+        "genders": true,
+        "name": "Speech synthesis",
+        "value": true
+      }
+    ],
+    "rtl": false
+  },
+  {
+    "englishName": "Punjabi",
+    "full_code": "pa_PK",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Romanian",
+    "full_code": "ro_RO",
+    "modes": [
+      {
+        "genders": true,
+        "name": "Speech synthesis",
+        "value": true
+      }
+    ],
+    "rtl": false
+  },
+  {
+    "englishName": "Russian",
+    "full_code": "ru_RU",
+    "modes": [
+      {
+        "genders": true,
+        "name": "Speech synthesis",
+        "value": true
+      }
+    ],
+    "rtl": false
+  },
+  {
+    "englishName": "Samoan",
+    "full_code": "sm_WS",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Scottish",
+    "full_code": "gd_GB",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Serbian Kyrilic",
+    "full_code": "sr-Cyrl_RS",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Sesotho",
+    "full_code": "st_LS",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Shona",
+    "full_code": "sn_ZW",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Sindhi",
+    "full_code": "sd_PK",
+    "modes": [],
+    "rtl": true
+  },
+  {
+    "englishName": "Sinhala",
+    "full_code": "si_LK",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Slovak",
+    "full_code": "sk_SK",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Slovenian",
+    "full_code": "sl_SI",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Somali",
+    "full_code": "so_SO",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Spanish",
+    "full_code": "es_ES",
+    "modes": [
+      {
+        "genders": true,
+        "name": "Speech synthesis",
+        "value": true
+      }
+    ],
+    "rtl": false
+  },
+  {
+    "englishName": "Spanish (Mexico)",
+    "full_code": "es_MX",
+    "modes": [
+      {
+        "genders": true,
+        "name": "Speech synthesis",
+        "value": true
+      }
+    ],
+    "rtl": false
+  },
+  {
+    "englishName": "Spanish (United States)",
+    "full_code": "es_US",
+    "modes": [
+      {
+        "genders": true,
+        "name": "Speech synthesis",
+        "value": true
+      }
+    ],
+    "rtl": false
+  },
+  {
+    "englishName": "Sundanese",
+    "full_code": "su_ID",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Swahili",
+    "full_code": "sw_TZ",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Swedish",
+    "full_code": "sv_SE",
+    "modes": [
+      {
+        "genders": true,
+        "name": "Speech synthesis",
+        "value": true
+      }
+    ],
+    "rtl": false
+  },
+  {
+    "englishName": "Tagalog",
+    "full_code": "tl_PH",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Tajik",
+    "full_code": "tg_TJ",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Tamil",
+    "full_code": "ta_IN",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Tatar",
+    "full_code": "tt_TT",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Telugu",
+    "full_code": "te_IN",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Thai",
+    "full_code": "th_TH",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Turkish",
+    "full_code": "tr_TR",
+    "modes": [
+      {
+        "genders": true,
+        "name": "Speech synthesis",
+        "value": true
+      }
+    ],
+    "rtl": false
+  },
+  {
+    "englishName": "Ukrainian",
+    "full_code": "uk_UA",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Urdu",
+    "full_code": "ur_PK",
+    "modes": [],
+    "rtl": true
+  },
+  {
+    "englishName": "Uyghur",
+    "full_code": "ug_UG",
+    "modes": [],
+    "rtl": true
+  },
+  {
+    "englishName": "Uzbek",
+    "full_code": "uz_UZ",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Vietnamese",
+    "full_code": "vi_VN",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Welsh",
+    "full_code": "cy_GB",
+    "modes": [
+      {
+        "genders": true,
+        "name": "Speech synthesis",
+        "value": true
+      }
+    ],
+    "rtl": false
+  },
+  {
+    "englishName": "Xhosa",
+    "full_code": "xh_ZA",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Yiddish",
+    "full_code": "yi_IL",
+    "modes": [],
+    "rtl": true
+  },
+  {
+    "englishName": "Yoruba",
+    "full_code": "yo_NG",
+    "modes": [],
+    "rtl": false
+  },
+  {
+    "englishName": "Zulu",
+    "full_code": "zu_ZA",
+    "modes": [],
+    "rtl": false
+  }
+]
